@@ -1,1 +1,1 @@
-# ai_coding_calculator
+# ai_cost_calculator
